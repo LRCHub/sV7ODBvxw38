@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "悪ノ娘",
+  "base_artist": "mothy",
+  "createdAt": "2026-02-25T16:14:47.814850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy_悪ノP feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/01_悪ノ娘_mothy_悪ノP_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/02_悪ノ娘_mothy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/03_悪ノ娘_mothy_feat._鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悪ノ娘 feat. 鏡音リン",
+      "artist": "mothy_悪ノP",
+      "has_synced": false,
+      "path": "select/04_悪ノ娘_feat._鏡音リン_mothy_悪ノP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悪ノ娘 - Akuno Musume (feat. Kagamine Rin)",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/05_悪ノ娘_-_Akuno_Musume_(feat._Kagamine_Rin)_mothy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy_悪ノP feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/06_悪ノ娘_mothy_悪ノP_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悪ノ娘 feat.鏡音リン",
+      "artist": "mothy",
+      "has_synced": false,
+      "path": "select/07_悪ノ娘_feat.鏡音リン_mothy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "mothy_悪ノP Feat. 鏡音リン - 悪ノ娘",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/08_mothy_悪ノP_Feat._鏡音リン_-_悪ノ娘_EXIT_TUNES.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy",
+      "has_synced": false,
+      "path": "select/09_悪ノ娘_mothy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy_悪ノP feat. 神威がくぽ、MEIKO、鏡音リン、鏡音レン、初音ミク、巡音ルカ、KAITO、GUMI",
+      "has_synced": true,
+      "path": "select/10_悪ノ娘_mothy_悪ノP_feat._神威がくぽ、MEIKO、鏡音リン、鏡音レン、初音ミク、巡音ルカ、KAITO、GUMI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "悪ノ娘 (Paused)",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/11_悪ノ娘_(Paused)_mothy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "悪ノ娘",
+      "artist": "mothy_悪ノP",
+      "has_synced": true,
+      "path": "select/12_悪ノ娘_mothy_悪ノP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪ノ娘",
+      "artist": "mothy_悪ノP",
+      "has_synced": false,
+      "path": "select/pl_01_悪ノ娘_mothy_悪ノP.txt"
+    }
+  ]
+}
